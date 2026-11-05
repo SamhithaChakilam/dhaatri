@@ -30,7 +30,7 @@ export default function Navbar({ go }) {
           className="flex items-center"
         >
           <img
-            src="https://i.ibb.co/chXwkFBt/dhaatri-logo.jpg"
+            src="https://supabase.com/dashboard/project/ndcpogzvoajoquoqhjsq/storage/files/buckets/jewellery?path=site-assets"
             
             alt="Dhaatri One Gram Gold Jewellery"
             className="h-14 w-auto object-contain"
