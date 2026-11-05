@@ -5,7 +5,7 @@ export default function About() {
 
         {/* Dhaatri Store */}
         <img
-          src="https://i.ibb.co/MyLDDDy3/Elegant-Pink-Gold-Jewelry-Boutique.png"
+          src="https://supabase.com/dashboard/project/ndcpogzvoajoquoqhjsq/storage/files/buckets/jewellery?path=site-assets"
           alt="Dhaatri One Gram Gold Jewellery store"
           loading="lazy"
           className="aspect-[4/3] w-full rounded-2xl object-cover shadow-sm"
