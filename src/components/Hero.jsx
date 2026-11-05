@@ -1,4 +1,4 @@
-const LOGO_URL = "https://supabase.com/dashboard/project/ndcpogzvoajoquoqhjsq/storage/files/buckets/jewellery?path=site-assets"
+const LOGO_URL = "https://ndcpogzvoajoquoqhjsq.supabase.co/storage/v1/object/public/jewellery/site-assets/dhaatri-logo.jpg"
 
 export default function Hero({ go }) {
   return (
